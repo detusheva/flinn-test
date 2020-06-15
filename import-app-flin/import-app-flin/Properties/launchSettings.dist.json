@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "import-app-flin": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Iana Detusheva\\Documents\\flinndal_product_sample_data.json\"",
+      "environmentVariables": {
+        "CONNECTION_STRING": "REPLACEME"
+      }
+    }
+  }
+}
